@@ -45,6 +45,7 @@ $places['CL'] = array(
         'San Lázaro',
         'Valle-Mí',
         'Yby - Yau'
+     ),   
 	'PY-2' => array(
 		'Antequera',
 		'Capiibary',
